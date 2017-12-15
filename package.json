@@ -1,0 +1,24 @@
+{
+  "name": "gulp-cli",
+  "version": "1.0.0",
+  "description": "A tool for Gulp",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hezier1223/gulp-cli.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Hezier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hezier1223/gulp-cli/issues"
+  },
+  "homepage": "https://github.com/Hezier1223/gulp-cli#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
