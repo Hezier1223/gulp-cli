@@ -1,0 +1,51 @@
+
+*,
+*:after,
+*::before {
+    box-sizing: border-box;
+}
+
+html, body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color: #767676;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+}
+
+body, h1, h2, h3, h4, h5, h6, p {
+    font-family: 'PingFang SC', '微软雅黑', 'Helvetica Neue', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', 'Microsoft Yahei', 'sans-serif', serif !important;
+    //font-weight: normal;
+}
+
+body {
+    padding: 0 !important;
+}
+
+ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: #333;
+    outline: none;
+}
+
+button, input {
+    outline: none;
+}
+
